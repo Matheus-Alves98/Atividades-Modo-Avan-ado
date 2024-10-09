@@ -1,3 +1,3 @@
-from funçãostring import *
-tratartexto("eu amo voces")
+from funcaonumprimo import *
 
+numeroPrimo(7)
